@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**felipedias1/felipedias1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou o Felipe Dias, estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/)
+<!--🔭 I’m currently working on ...--> 
+- 🌱 Atualmente, sou Desenvolvedor Front-End em React JS e estudando Back-End
+- 👯 Estou procurando colaborar em projetos front-end
+- 💬 Pergunte-me sobre a [Trybe](https://www.betrybe.com/)
 
-Here are some ideas to get you started:
+* _Feito é melhor que perfeito! George Patton_ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/felipedias1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipedias1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedias1&layout=compact&langs_count=16&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+</div>
+<br>
+<div> 
+  <a href = "mailto: felipeferreiradias1@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=E-mail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipefdias1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href=https://stackoverflow.com/users/17109405/felipe-ferreira-dias target="_blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge " target="_blank"></a> 
+</div> 
+
