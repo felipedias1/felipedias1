@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 - Sou o Felipe Dias, estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/) 
-- 🌱 Desenvolvedor Front-End React JS 
+- 🌱 Desenvolvedor Web Júnior 
 - 🔭 Atualmente estudo Back-End
-- 👯 Estou procurando colaborar em projetos front-end
-- 💬 Pergunte-me sobre a [Trybe](https://www.betrybe.com/)
-
-* _Feito é melhor que perfeito! George Patton_ 
+- 👯 Estou procurando colaborar em projetos Front End e Back End
+- 💬 Pergunte-me sobre a [Trybe](https://www.betrybe.com/) 
 
 <div>
   <a href="https://github.com/felipedias1">
