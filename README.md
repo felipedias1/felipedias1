@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - Sou o Felipe Dias, 
-- 🌱 Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/)  
-- 🔭 Atualmente estudo Back-End
+- 🌱 Desenvolvedor Web Full-Stack 
+- 🔭 Atualmente estudo Back-End e Front-End
 - 👯 Estou procurando colaborar em projetos Front End e Back End
 
 <div>
